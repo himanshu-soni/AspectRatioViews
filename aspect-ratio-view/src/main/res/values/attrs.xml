@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="aspectRatio" format="float" />
+
+    <declare-styleable name="AspectRatioRelativeLayout">
+        <attr name="aspectRatio" />
+    </declare-styleable>
+
+    <declare-styleable name="AspectRatioFrameLayout">
+        <attr name="aspectRatio" />
+    </declare-styleable>
+
+    <declare-styleable name="AspectRatioLinearLayout">
+        <attr name="aspectRatio" />
+    </declare-styleable>
+
+    <declare-styleable name="AspectRatioImageView">
+        <attr name="aspectRatio" />
+    </declare-styleable>
+
+</resources>
